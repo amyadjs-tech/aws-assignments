@@ -309,7 +309,7 @@ Expected tag:
 
 | Key | Value |
 |------|-------|
-| RestoredFrom | snap-xxxxxxxx |
+| RestoredFrom | snap-0cf8bd22d6fe8d70c |
 
 📸 **Screenshot 7:** Restored EC2 Instance.
 
