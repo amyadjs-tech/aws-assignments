@@ -152,8 +152,6 @@ Click **Create Function**.
 
 Replace the default code with:
 
-
-
    import boto3 from datetime import datetime
 
    ec2 = boto3.client("ec2")
