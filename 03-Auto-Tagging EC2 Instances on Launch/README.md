@@ -180,7 +180,7 @@ Click **Deploy**.
 
 ---
 
-# Step 6: Create the EventBridge Rule
+# Step 6: Create the EventBridge ------------Rule
 
 Go to:
 
