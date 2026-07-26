@@ -338,10 +338,13 @@ Lambda
 Expected output:
 
 ```text
-Latest Snapshot: snap-0123456789abcdef0
-AMI Created: ami-0123456789abcdef0
-AMI is now available
-New Instance Created: i-0123456789abcdef0
+START RequestId: 5b550771-eb18-47f9-b3bd-b359361ce9ed
+Version: $LATEST
+Latest Snapshot: snap-@cfBbd22d6f08d78c
+AMI Created: ami 0841779b4cf72748c
+AMI is available
+New Instance Created: 1-8be5b7d8a5df8041
+END RequestId: 56550771-eb18-47f9-b3bd-b359361ce9ed
 ```
 
 📸 **Screenshot 9:** CloudWatch Logs.
