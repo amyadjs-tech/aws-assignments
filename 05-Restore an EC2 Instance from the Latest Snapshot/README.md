@@ -152,15 +152,13 @@ Click **Create Function**.
 
 Replace the default code with:
 
-import boto3
-from datetime import datetime
+import boto3 from datetime import datetime
 
 ec2 = boto3.client("ec2")
 
 VOLUME_ID = "vol-05ebd628402d2bff6"
 
 def lambda_handler(event, context):
-
     snapshots = ec2.describe_snapshots(
         OwnerIds=["self"],
         Filters=[
