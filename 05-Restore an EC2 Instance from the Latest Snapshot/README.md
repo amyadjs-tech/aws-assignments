@@ -271,12 +271,16 @@ Click **Test**.
 
 Expected output:
 
+Status: Succeeded
+Test Event Name: MyTestEvent
+
+Response:
 ```json
 {
   "statusCode": 200,
-  "InstanceId": "i-0123456789abcdef0",
-  "SnapshotId": "snap-0123456789abcdef0",
-  "AMI": "ami-0123456789abcdef0"
+  "SnapshotId": "snap-0cf8bd22d6fe8d70c",
+  "ImageId": "ami-0333d42287a1d09d7",
+  "InstanceId": "i-03b110199bbf6a469"
 }
 ```
 
