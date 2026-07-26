@@ -277,10 +277,10 @@ Test Event Name: MyTestEvent
 Response:
 ```json
 {
-  "statusCode": 200,
-  "SnapshotId": "snap-0cf8bd22d6fe8d70c",
-  "ImageId": "ami-0333d42287a1d09d7",
-  "InstanceId": "i-03b110199bbf6a469"
+"statusCode": 200,
+"Snapshot Id": "snap Rcf8hd22d6fe8d7or",
+"ImageTd": "aml 0841779h4cf72748c",
+"InstanceId": "i-0be6b7d8a5dfc8041"
 }
 ```
 
