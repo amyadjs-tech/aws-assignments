@@ -31,7 +31,7 @@ EC2
 Example:
 
 ```text
-vol-0123456789abcdef0
+vol-05ebd628402d2bff6
 ```
 
 📸 **Screenshot 1:** Existing EBS Volume and Snapshot.
