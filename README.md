@@ -1,1 +1,0 @@
-# aws-lambda-boto3-assignments
